@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revolutionizing Healthcare with eHealth Cloud: An Integrated Approach for a Healthier Future 
-subtitle: This article explores how cloud-based healthcare application architecture and electronic medical record mining can radically transform healthcare systems. The article introduces eHealth Cloud, a cloud-based application aimed at creating a heterogeneous network among patients, physicians, and government, thereby improving healthcare, particularly in developing countries.
+subtitle: The article introduces eHealth Cloud, a cloud-based application aimed at creating a heterogeneous network among patients, physicians, and government, thereby improving healthcare, particularly in developing countries.
 cover-img: /assets/img/cover-cloud.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
